@@ -9,3 +9,7 @@
 ### [Skype](http://go.skype.com/windows.desktop.download)
 
 ### [Python 3.5](https://www.python.org/ftp/python/3.5.4/python-3.5.4-amd64.exe)
+
+### [PuTTY](https://the.earth.li/~sgtatham/putty/latest/w64/putty.zip)
+
+### [Sysinternals Suit](https://download.sysinternals.com/files/SysinternalsSuite.zip)
