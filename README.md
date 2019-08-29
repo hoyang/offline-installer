@@ -7,3 +7,5 @@
 ### [Mozilla Firefox](https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=en-US)
 
 ### [Skype](http://go.skype.com/windows.desktop.download)
+
+### [Python 3.5](https://www.python.org/ftp/python/3.5.4/python-3.5.4-amd64.exe)
