@@ -1,4 +1,4 @@
-# offline-installer
+# Offline installer links
 
 ### [Dropbox](https://www.dropbox.com/downloading?full=1&os=win)
 
