@@ -13,3 +13,5 @@
 #### [PuTTY](https://the.earth.li/~sgtatham/putty/latest/w64/putty.zip)
 
 #### [Sysinternals Suit](https://download.sysinternals.com/files/SysinternalsSuite.zip)
+
+#### [TeamViewer](https://download.teamviewer.com/full)
