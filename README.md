@@ -4,7 +4,7 @@
 
 #### [Google Chrome](https://www.google.com/intl/en/chrome/browser/desktop/index.html?standalone=1)
 
-#### Mozilla Firefox [macOS](https://download.mozilla.org/?product=firefox-latest-ssl&os=osx&lang=en-US) [Win64](https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=en-US)
+#### Mozilla Firefox [macOS](https://download.mozilla.org/?product=firefox-latest-ssl&os=osx&lang=en-US) [Win64](https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=en-US) [Android APK](https://download.mozilla.org/?product=fennec-latest&os=android&lang=multi)
 
 #### [Skype](http://go.skype.com/windows.desktop.download)
 
