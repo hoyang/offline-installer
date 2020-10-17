@@ -17,3 +17,5 @@
 #### [TeamViewer](https://download.teamviewer.com/full)
 
 #### Docker [macOS](https://download.docker.com/mac/stable/Docker.dmg) [Win64](https://download.docker.com/win/stable/Docker%20for%20Windows%20Installer.exe)
+
+### Adobe Reader DC [Reader_DC_2019.008.20071_Chinese_Simp_for_Windows](https://get.adobe.com/reader/completion/?installer=Reader_DC_2019.008.20071_Chinese_Simp_for__Windows&stype=7723&direct=true&standalone=1)
